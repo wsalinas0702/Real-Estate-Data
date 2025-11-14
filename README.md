@@ -103,3 +103,14 @@ If running locally:
 git clone https://github.com/wsalinas0702/Real-Estate-Data.git
 cd Real-Estate-Data
 pip install -r requirements.txt
+
+## 🏡 Client Discovery Portal Initiative
+
+We are launching a Zillow-style discovery experience that lets visitors search Pennsylvania, New Jersey, and Puerto Rico listings without an account, while agents curate preference-driven matches for their clients. Key capabilities include:
+
+- Instant county/address search with stylistic filters (property style, color palette, interior vibe, amenities, pets, HOA, smart tech).
+- Bullet-style preference tagging for each client profile, generating transparent match scores.
+- Collaboration features (thumbs feedback, review prompts) and an AI concierge chatbot for filter guidance.
+
+👉 See the full [Client Discovery Portal Product Spec](docs/client-portal-spec.md) for personas, data model, screen inventory, and the phased roadmap.
+
